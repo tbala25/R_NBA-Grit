@@ -29,3 +29,16 @@ they	played	a	full	48	minutes.	In	retrospect	this	number	should	have	been	far	cl
 is	around	the	average	minutes	that	starters	will	play	in	a	game.
 Originally my	GRIT	score	calculation	was	incorrect	and	I	could	tell	because	naturally	a	starter	
 and	a	big-man	would	have	a	higher	GRIT	score	than	a	reserve	guard	and	this	was	not	true.	
+
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/12696313/174348356-87139fcf-124d-460b-8bde-2fedcd19e797.png">
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/12696313/174348398-535cdd04-b4c0-474d-802f-af4567a43a4d.png">
+
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/12696313/174348447-c0a2a495-e9de-4800-aa93-ce648175e9a5.png">
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/12696313/174348496-da766c0f-8d24-4538-866b-dc1a30860b1d.png">
+
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/12696313/174348537-987b784f-1030-42a6-8d9c-8ec284dd1574.png">
+
+
+
